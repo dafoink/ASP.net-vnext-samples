@@ -1,7 +1,7 @@
 # ASP.net-vnext-samples MacOSX
 
 ## Video available on Youtube
-http://youtu.be/wUtfKaO5G9Q
+https://www.youtube.com/watch?v=Nd7KCMyY8uE
 
 ## Requirement
 To use the projects the ASP.net vnext environment need to be proper installed. For further help and suggestion about
